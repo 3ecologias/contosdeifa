@@ -1,4 +1,4 @@
-/** Contos de Ifá****/
+** Contos de Ifá****/
 html {
 	overflow-y: hidden;
 }
@@ -66,7 +66,10 @@ h3 {
 h4 {
 	font-family: 'Atma', cursive;
 	font-size: 1em;
-	
+		
+}
+.ossain_fala5{
+	text-align: right !important; 
 }
 
 /* elementos */
@@ -640,6 +643,7 @@ body {
 	text-shadow: 2px 2px 23px #000000;
 }
 
+
 #ode_missao {
 	font-size: 3.5em;
 	width: 200%;
@@ -748,6 +752,7 @@ body {
 #ossain_falafinal h4 {
 color:white;
 }
+
 
 #pano_ossain {
 	width: 100%;

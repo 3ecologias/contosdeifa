@@ -17,6 +17,7 @@ function ScoreBoardGameControl (){
 		if (corrects ==  TOTAL_CORRECT){
 			alert("Fim de Jogo! Seu Axe ficou: " + score + "%"); 
 			window.location="final.html";
+			
 		}
 	}
 
@@ -48,6 +49,7 @@ function Card(picture){
 		return picture;
 	}
 }
+
 
 function ControllerLogicGame(){
 	var firstSelected;
