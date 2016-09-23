@@ -1,0 +1,465 @@
+.bg{
+
+    background-image: url('../imgs/bg_ossain.png');
+    
+}
+
+.main{
+    width:660px;
+    margin:0 auto;
+}
+/* Modais_Folhas */
+.close_modal{
+    display: block;
+    text-align: right;
+    cursor:pointer;
+    width: 19%;
+    float: right;
+   
+}
+
+.bg_modal{
+    width:100%;
+    height:100%;
+    position:absolute;
+    background-color: RGBA(0, 0, 0, 0.71);;
+    z-index: 9999;
+    top:0;
+    left:0;
+}
+.aroeira_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.aroeira_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 41%;
+}
+ 
+.aroeira_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+
+.alecrim_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.alecrim_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 41%;
+}
+.alecrim_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+.babosa_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.babosa_title{
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 41%;
+}
+ 
+.babosa_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+
+
+}
+.boldo_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.boldo_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 41%;
+}
+.boldo_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+.camomila_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.camomila_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 36%;
+}
+.camomila_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+.ervadoce_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.ervadoce_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 36%;
+}
+.ervadoce_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+.goiabeira_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.goiabeira_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 36%;
+}
+ 
+.goiabeira_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+.manjericao_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.manjericao_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 36%;
+}
+.manjericao_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+.quebrapedra_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.quebrapedra_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 36%;
+}
+.quebrapedra_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+.roma_window{
+    width:400px;
+    height:162px;
+    position:absolute;
+    left:41%;
+    top:32%;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+.roma_title{
+    
+    font-family: "Atma",cursive;
+    font-size: 1.4em;
+    line-height:1.2em;
+    color:#1DA43F;
+    height:22px;
+    position:absolute;
+    top: 6%;
+    margin-left: 41%;
+}
+.roma_conteudo{
+    margin: 14% 0 10px;
+    color: #000;
+    font-size: 1.4em;
+    line-height:1.2em;
+    text-align:center;
+    font-family: "Atma",cursive;
+}
+img {
+    margin : 10 0 0 10;
+}
+
+#score{
+    margin: 0% 1% 1% 0%;
+    font-size: 2.8em;
+    font-family: 'Atma', cursive;
+    position: absolute;
+    left: 23%;
+    top: 13%;
+}
+.button_game {
+    background: -moz-linear-gradient(center top , #EDEDED 5%, #DFDFDF 100%) repeat scroll 0 0 #EDEDED;
+    border: 1px solid #DCDCDC;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 1px 0 0 #FFFFFF inset;
+    color: #777777;
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 23px;
+    text-decoration: none;
+    text-shadow: 1px 1px 0 #FFFFFF;
+    margin-left: 23%;
+    margin-top: 26px;
+}
+.button_game:hover {
+    background: -moz-linear-gradient(center top , #DFDFDF 5%, #EDEDED 100%) repeat scroll 0 0 #DFDFDF;
+}
+.button_game:active {
+    position: relative;
+    top: 1px;
+}
+#sidebar-wrapper {
+  margin-right: -60px;
+  right: 60px;
+  width: 60px;
+  /*background: #000;*/
+  /*background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.22);*/
+    background: url('../../../img/help.png') no-repeat scroll 40% 95% rgba(0, 0, 0, 0.22);
+  position: fixed;
+  height: 103%;
+  overflow-y: auto;
+  z-index: 9999;
+  -webkit-transition: all 0.4s ease 0s;
+  -moz-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+  -webkit-box-shadow: 3px 0px 36px -1px rgba(0,0,0,0.75);
+  -moz-box-shadow:  3px 0px 36px -1px rgba(0,0,0,0.75);
+  box-shadow:  3px 0px 36px -1px rgba(0,0,0,0.75);
+}
+
+.sidebar-nav {
+  position: absolute;
+  top: 6%;
+  width: 60px;
+  list-style: none;
+  margin: -36%;
+  padding: 0;
+  padding-left: -12%;
+}
+
+.sidebar-nav li {
+  line-height: 40px;
+  text-indent: 20px;
+}
+
+.sidebar-nav li a {
+  color: #999999;
+  display: block;
+  text-decoration: none;
+}
+
+.sidebar-nav li a:hover {
+  color: #fff;
+  background: rgba(255,255,255,0.2);
+  text-decoration: none;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+  text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+  height: 55px;
+  line-height: 55px;
+  font-size: 18px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+  color: #999999;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+  color: #fff;
+  background: none;
+}
+
+#menu-toggle {
+  top: 0px;
+  right: 0px;
+  position: fixed;
+  z-index: 9998;
+  color: #FFF;
+  font-size: 3em;
+  display: none;
+}
+
+#sidebar-wrapper.active {
+  right: 0px;
+  width: 60px;
+  -webkit-transition: all 0.4s ease 0s;
+  -moz-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+
+.toggle {
+  margin: 5px 5px 0 0;
+}
+
+.btn-lg {
+    font-size: 4em;
+    color: #FFF;
+}
