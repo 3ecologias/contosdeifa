@@ -15,6 +15,6 @@
     }
   ]
   , "devDependencies": {
-      "uglify-js": "2.2.x"
+      "uglify-js": "3.6.x"
   }
 }
